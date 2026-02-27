@@ -1,7 +1,3 @@
-Tamamdır kanka, ismi PAIM (muhtemelen Personalized AI Investment Messenger veya benzeri bir açılımı vardır, havalı olmuş) olarak güncelledim ve İngilizce bir README hazırladım.
-
-İşte projenin yeni kimliğiyle hazırlanan README.md:
-
 🚀 PAIM: Personalized AI Investment Messenger
 PAIM is a Python-based automation tool designed for investment brokering professionals. It bridges the gap between high-level executive databases and investment opportunities by generating bespoke, highly personalized outreach messages using Gemini 2.5 Flash.
 
